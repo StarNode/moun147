@@ -1,3 +1,5 @@
+import saito.objloader.*;
+
 int thresholdVirtual, thresholdReal;
 float sizeMountainFactor = 0.006;
 int halfH, halfW;
