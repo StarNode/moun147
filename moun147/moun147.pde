@@ -4,6 +4,7 @@ void setup()
 {
   graphicSettings();
   interactionSettings();
+  audioSettings();
 }
 
 void draw()
@@ -15,6 +16,7 @@ void draw()
   mountainTranslation(); // -> graphic_elaboration
   interactivity();
   addTexture();
+  audio();
 }
 
 
